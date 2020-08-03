@@ -3,3 +3,6 @@ node_modules
 
 # css files
 dist/css
+
+# js files
+dist/js
